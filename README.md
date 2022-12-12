@@ -13,6 +13,6 @@
 <a href="https://www.linkedin.com/in/tuhina-tripathi-98776124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwik-sharma-8714b422" height="30" width="40" /></a>
 </p>
 ---
-### ![rocket](https://user-images.githubusercontent.com/119059108/206947622-8aadf2f9-d34d-4898-a785-5b3e54f59583.gif) GitHub streak: 
-[![GitHub Streak](https://streak-stats.demolab.com?user=trojanspidey&theme=tokyonight_duo&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### ![rocket](https://user-images.githubusercontent.com/119059108/206947622-8aadf2f9-d34d-4898-a785-5b3e54f59583.gif)
+### GitHub streak:[![GitHub Streak](https://streak-stats.demolab.com?user=trojanspidey&theme=tokyonight_duo&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
