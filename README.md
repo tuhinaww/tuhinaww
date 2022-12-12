@@ -1,4 +1,4 @@
-   # Heyy there! ![raising_hands](https://user-images.githubusercontent.com/119059108/206946757-6e41a2bd-881f-44ea-a89d-fa6b30731704.gif)
+   # Heyy there! ![raising_hands (1)](https://user-images.githubusercontent.com/119059108/206947743-cb78393a-5eda-4b65-9fda-d281df01798a.gif)
 ###  I am Tuhina Tripathi aka trojanspidey!! 
 ### Currently a first year student at SRM Institute of science and technology pursuing B-tech degree in Computer Science. I am a Programming Enthusiast and have the knowledge of C, C++, Python and Web Development. I'm a learner always looking to enhance my skills and making a change by contributing. I'm always eager to learn new things and I'm always looking for new challenges and problem-solving opportunities. :)
 
