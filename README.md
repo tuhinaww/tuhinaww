@@ -8,5 +8,5 @@
 ### 🌱 Contact me: tt4102@srmist.edu.in
 ### 🌱 Hidden Talent: Downing 10 cups of coffee ☕ 
 ---
-![rocket](https://user-images.githubusercontent.com/119059108/207068653-043041fd-0888-4116-960e-e5a03ce8ecdd.gif) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Watch+My+GitHub+Streak)](https://git.io/typing-svg)
+![rocket](https://user-images.githubusercontent.com/119059108/207068653-043041fd-0888-4116-960e-e5a03ce8ecdd.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Watch+My+GitHub+Streak)](https://git.io/typing-svg)
 ### [![GitHub Streak](https://streak-stats.demolab.com?user=TROJANSPIDEY&theme=monokai)](https://git.io/streak-stats)
