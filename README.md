@@ -14,5 +14,5 @@
 </p>
 ---
 ### ![rocket](https://user-images.githubusercontent.com/119059108/206947622-8aadf2f9-d34d-4898-a785-5b3e54f59583.gif)
-### GitHub streak:[![GitHub Streak](https://streak-stats.demolab.com?user=trojanspidey&theme=tokyonight_duo&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+### My Github Streak! 
+[![GitHub Streak](https://streak-stats.demolab.com?user=trojanspidey&theme=shades-of-purple)](https://git.io/streak-stats)
