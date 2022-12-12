@@ -8,7 +8,7 @@
 ### I'm a learner who is always looking to improve my skills and make a difference 
 ### by contributing. I'm always looking for new challenges and problem-solving 
 ### opportunities, and I'm always eager to learn new things. :)
-
+---
 ### 🌱 Currently I am learning Web Development. 
 ### 🌱 Contact me: tt4102@srmist.edu.in
 ### 🌱 Hidden Talent: Downing 10 cups of coffee ☕ 
