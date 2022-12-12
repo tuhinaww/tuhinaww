@@ -9,7 +9,7 @@
 
 ---
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
-[1]: http://www.github.com/trojanspidey
+[3]: http://www.github.com/trojanspidey
 [2]: https://www.linkedin.com/in/tuhina-tripathi-98776124b/
 
 ### ![rocket](https://user-images.githubusercontent.com/119059108/206947622-8aadf2f9-d34d-4898-a785-5b3e54f59583.gif) GitHub streak: 
