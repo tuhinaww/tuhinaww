@@ -2,7 +2,7 @@
 ---
 ### Hey There! ![raising_hands (1)](https://user-images.githubusercontent.com/119059108/206947743-cb78393a-5eda-4b65-9fda-d281df01798a.gif)
 ###  I am Tuhina Tripathi aka trojanspidey!
-### I am currently a first-year student at SRM Institute of Science and Technology, 
+### I am currently a first-year student at SRM Institute of Science and Technology,    ![giphy](https://user-images.githubusercontent.com/119059108/207079476-f9aa5940-8612-4e34-b7f2-4fe2d710f131.gif)
 ### where I am pursuing a B-tech degree in Computer Science. I am a 
 ### programming enthusiast with experience in C, C++, Python, and web development. 
 ### I'm a learner who is always looking to improve my skills and make a difference 
