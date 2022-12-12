@@ -1,5 +1,5 @@
-# ahoy! 💗
-## *Trojanspidey aka Tuhina Tripathi!!*
+   # Hi there! 💗
+##  💫 I am trojanspidey aka Tuhina Tripathi >.<
 ### 💫 Currently a first year student at SRM Institute of science and technology pursuing B-tech degree in Computer Science.
 ### 💫 I am a Programming Enthusiast and have the knowledge of C, C++, Python and Web Development. 
 ### 💫 Currently I am learning Web Development.
