@@ -1,4 +1,4 @@
-   # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student;Blockchain+Enthusiast;Web+Development;AI+and+ML;)](https://git.io/typing-svg)
+   ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student;Blockchain+Enthusiast;Web+Development;AI+and+ML;)](https://git.io/typing-svg)
 ---
 ### Heyy there! ![raising_hands (1)](https://user-images.githubusercontent.com/119059108/206947743-cb78393a-5eda-4b65-9fda-d281df01798a.gif)
 ###  I am Tuhina Tripathi aka trojanspidey!
