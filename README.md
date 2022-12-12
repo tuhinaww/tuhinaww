@@ -9,4 +9,4 @@
 
 ### ![rocket](https://user-images.githubusercontent.com/119059108/206947622-8aadf2f9-d34d-4898-a785-5b3e54f59583.gif) GitHub streak: 
 [![GitHub Streak](https://streak-stats.demolab.com?user=trojanspidey&theme=radical&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-file:///C:/Users/Tuhina%20Tripathi/Downloads/github-user-contribution.svg
+
