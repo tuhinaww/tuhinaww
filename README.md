@@ -7,3 +7,4 @@
 ### 💫 I'm always eager to learn new things and I'm always looking for new challenges and problem-solving opportunities. :)
 ### 💫 Hidden Talent: Downing 10 cups of coffee ☕ XD
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=trojanspidey&theme=radical&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
