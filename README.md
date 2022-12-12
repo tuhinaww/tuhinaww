@@ -8,5 +8,5 @@
 ### 🌱 Contact me: tt4102@srmist.edu.in
 ### 🌱 Hidden Talent: Downing 10 cups of coffee ☕ 
 ---
-<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" height="40px">&nbsp; GitHub Streak</h3>
+
 ### [![GitHub Streak](https://streak-stats.demolab.com?user=TROJANSPIDEY&theme=monokai)](https://git.io/streak-stats)
