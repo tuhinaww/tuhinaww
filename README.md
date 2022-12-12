@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Year+1+Student+at+SRMIST;Blockchain+Enthusiast;Python%2C+C%2FC%2B%2B;Web+Development;AI+%2F+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=Year+1+Student+at+SRMIST;Blockchain+Enthusiast;Python%2C+C%2FC%2B%2B;Web+Development;AI+%2F+ML)](https://git.io/typing-svg)
 ---
 ### Heyy there! ![raising_hands (1)](https://user-images.githubusercontent.com/119059108/206947743-cb78393a-5eda-4b65-9fda-d281df01798a.gif)
 ###  I am Tuhina Tripathi aka trojanspidey!
