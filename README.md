@@ -7,7 +7,7 @@
 ###                                                        🌱 Contact me: tt4102@srmist.edu.in
 ###                                                        🌱 Hidden Talent: Downing 10 cups of coffee ☕ 
 ---
-![rocket](https://user-images.githubusercontent.com/119059108/207068653-043041fd-0888-4116-960e-e5a03ce8ecdd.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=Watch+My+GitHub+Streak)](https://git.io/typing-svg)
+![rocket](https://user-images.githubusercontent.com/119059108/207068653-043041fd-0888-4116-960e-e5a03ce8ecdd.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=Watch+My+GitHub+Stats)](https://git.io/typing-svg)
 ### ![](https://github-readme-stats.vercel.app/api?username=trojanspidey&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trojanspidey&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trojanspidey&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -16,10 +16,6 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trojanspidey&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=trojanspidey&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trojanspidey&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trojanspidey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
