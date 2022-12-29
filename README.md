@@ -11,13 +11,14 @@
 ### ![](https://github-readme-stats.vercel.app/api?username=trojanspidey&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trojanspidey&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trojanspidey&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🌐 Socials:
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D741F7&width=435&lines=%F0%9F%8C%90+My+Socials%3A)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tuhina-tripathi-98776124b/) 
 
-# 💻 Tech Stack:
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D741F7&width=435&lines=%F0%9F%92%BB+My+Tech+Stack%3A)](https://git.io/typing-svg)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
-## 🏆 GitHub Trophies
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D741F7&width=435&lines=%F0%9F%8F%86+My+GitHub+Trophies%3A)](https://git.io/typing-svg)
 ![](https://github-profile-trophy.vercel.app/?username=trojanspidey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ---
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D741F7&width=435&lines=%F0%9F%8E%A7+My+Spotify%3A)](https://git.io/typing-svg)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pvghlwq69v8xv6d2p06q72k60&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color=a64eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pvghlwq69v8xv6d2p06q72k60&redirect=true)
