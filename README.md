@@ -11,7 +11,7 @@
 ### ![](https://github-readme-stats.vercel.app/api?username=trojanspidey&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trojanspidey&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trojanspidey&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D741F7&width=435&lines=%F0%9F%8C%90+My+Socials%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+Socials)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tuhina-tripathi-98776124b/) 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D741F7&width=435&lines=%F0%9F%92%BB+My+Tech+Stack%3A)](https://git.io/typing-svg)
