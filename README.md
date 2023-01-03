@@ -14,7 +14,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+Socials:)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tuhina-tripathi-98776124b/) 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D741F7&width=435&lines=%F0%9F%92%BB+My+Tech+Stack%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+Tech+Stack:)](https://git.io/typing-svg)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+GitHub+Trophies:)](https://git.io/typing-svg)
