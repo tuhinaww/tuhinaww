@@ -20,5 +20,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+GitHub+Trophies:)](https://git.io/typing-svg)
 ![](https://github-profile-trophy.vercel.app/?username=tuhinaww&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ---
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+Spotify:)](https://git.io/typing-svg)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pvghlwq69v8xv6d2p06q72k60&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color=a64eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pvghlwq69v8xv6d2p06q72k60&redirect=true)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+Latest+Tweet:)](https://git.io/typing-svg)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=medoubletea&theme=radical&response=true&border=true&time=true&icon=default"/></a>
