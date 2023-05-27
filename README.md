@@ -22,3 +22,4 @@
 ---
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+Latest+Tweet:)](https://git.io/typing-svg)
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=medoubletea&theme=radical&response=true&border=true&time=true&icon=default"/></a>
+![snake gif](https://github.com/tuhinaww/tuhinaww/blob/output/github-contribution-grid-snake.svg)
