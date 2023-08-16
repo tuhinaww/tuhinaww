@@ -12,10 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinaww&theme=shades-of-purple&hide_border=false)<br/>
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+Socials:)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhina-tripathi-in/)
-
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+GitHub+Trophies:)](https://git.io/typing-svg)
-
----
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=My+Latest+Tweet:)](https://git.io/typing-svg)
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=medoubletea&theme=radical&response=true&border=true&time=true&icon=default"/></a>
