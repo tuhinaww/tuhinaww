@@ -64,7 +64,8 @@
 </td></tr></table>  
 
 <br/>  
-
+## Hacktoberfest 2023
+[![An image of @tuhinaww's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tuhinaww)](https://holopin.io/@tuhinaww)
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/tuhina-tripathi-in" target="_blank">
