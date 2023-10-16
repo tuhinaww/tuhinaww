@@ -7,6 +7,7 @@
 ###                                                        🌱 Contact me: tt4102@srmist.edu.in
 ###                                                        🌱 Hidden Talent: Downing 10 cups of coffee ☕ 
 ---
+[![An image of @tuhinaww's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tuhinaww)](https://holopin.io/@tuhinaww)
 ![rocket](https://user-images.githubusercontent.com/119059108/207068653-043041fd-0888-4116-960e-e5a03ce8ecdd.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=27&pause=1000&color=DFA2F7&background=FFFFFF00&width=435&lines=Watch+My+GitHub+Stats:)](https://git.io/typing-svg)
 ### ![](https://github-readme-stats.vercel.app/api?username=tuhinaww&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinaww&theme=shades-of-purple&hide_border=false)<br/>
