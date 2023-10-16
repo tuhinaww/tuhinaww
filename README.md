@@ -89,7 +89,7 @@
 
 
 ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=tuhinaww&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinaww&theme=shades-of-purple&hide_border=false&hide_current_streak=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tuhinaww&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
 
 <br/>  
 
