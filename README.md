@@ -93,12 +93,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinaww&theme=shades-of-purple&hide_border=false)<br/>
 
 <br/>  
-
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tuhinaww&&style=flat-square" align="center" />
-</div>  
   
 ![](https://hit.yhype.me/github/profile?user_id=119059108)
