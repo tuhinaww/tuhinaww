@@ -91,13 +91,6 @@
 
 <br/>  
 
-
-## Github Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=tuhinaww&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
-
-<br/>  
-
 <br/>   
   
 ![](https://hit.yhype.me/github/profile?user_id=119059108)
