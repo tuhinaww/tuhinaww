@@ -12,7 +12,7 @@
 ### 🌱 Currently I am learning Backend Development.   
   
 
-### 🌱 Ask me about anything related to MERN stack and related technologies  
+### 🌱 Ask me about anything related to AI/ML  
   
 
 ### 🌱 Hidden Talent: Downing 10 cups of coffee ☕  
