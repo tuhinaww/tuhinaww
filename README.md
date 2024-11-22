@@ -14,8 +14,6 @@
 
 ### 🌱 Ask me about anything related to AI/ML  
   
-
-### 🌱 Hidden Talent: Downing 10 cups of coffee ☕  
   
 
 <br/>  
@@ -79,9 +77,6 @@
 </a>
 <a href="https://gitlab.com/medoubletea" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/medoubletea" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/tuhinaww" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
