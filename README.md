@@ -9,9 +9,6 @@
 ### 🌱 Contact me: tt4102@srmist.edu.in  
   
 
-### 🌱 Currently I am learning Backend Development.   
-  
-
 ### 🌱 Ask me about anything related to AI/ML  
   
   
