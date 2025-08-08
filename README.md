@@ -3,13 +3,10 @@
 </div>  
   
 
-## <div align="center">I'm Tuhina, a computer science sophomore at SRMIST🚀</div>  
+## <div align="center">hey, I'm Tuhina, a computer science student at SRMIST</div>  
   
 
 ### 🌱 Contact me: tt4102@srmist.edu.in  
-  
-
-### 🌱 Ask me about anything related to AI/ML  
   
   
 
